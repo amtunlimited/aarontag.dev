@@ -1,4 +1,11 @@
 <!DOCTYPE html>
+
+<!--
+  You found me! This site is written with a static site generator (Jekyll to be
+  exact) but I *did* design and write all of the templates myself. I'm
+  currently looking for work, my resume is at aarontag.dev/resume.html and has
+  all of my contact details -->
+
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
 
@@ -18,8 +25,10 @@
   <body>
     <div class="container">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-        <p style="font-size:0.8em">A place to me to dive a little deeper about computers, science, math, art, music, or whatever else I want.</p>
+        <a href="{{ "/" | absolute_url }}">
+	  <img class="full-logo" src="/assets/logo_full.svg" />
+	</a>
+        <p style="font-size:0.8em; text-align: center">A place to me to dive a little deeper about computers, science, math, art, music, or whatever else I want.</p>
       </header>
      
       <main>
@@ -29,7 +38,7 @@
       <footer>
         <p><small>
           Contact Me: 
-            <a href="mailto:aaron.tagliaboschi@gmail.com">Email</a> |
+            <a href="mailto:aaron.tagliaboschi+site@gmail.com">Email</a> |
             <a href="https://github.com/amtunlimited">GitHub</a> |
 	    <a href="/guestbook/">Sign the guestbook</a>
 	  <br />

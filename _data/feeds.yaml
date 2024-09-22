@@ -2,6 +2,22 @@
   desc: The RSS feed for my blog
   url: https://aarontag.dev/feed.xml
 
+- name: Bandcamp
+  desc: My BandCamp, not necessarily in sync with my releases on Spotify et. al
+  url: https://amtunlimited.bandcamp.com/
+
+- name: Linkedin
+  desc: My Linkedin profile. I don't post at all, but it exists and is up to date
+  url: https://www.linkedin.com/in/aaron-tagliaboschi-673190117/
+
+- name: GitHub
+  desc: Where my code toys go. Considering a move to srchut, but haven't yet. Also where a lot of my professional pulic work goes.
+  url: https://github.com/amtunlimited
+
+- name: SourceHut
+  desc: I'm slowly shifting over my new projects to source hut, as I just kinda like it more
+  url: https://sr.ht/~amtunlimited/
+
 - name: Instagram (visual art)
   desc: My Instagram for my art and photography
   url: https://www.instagram.com/amtunlimited/
@@ -26,6 +42,10 @@
   desc: Where I moved some improv after I ran out of space. Inactive archive (for now)
   url: https://soundcloud.com/amtimprov
 
-- name: GitHub
-  desc: Where my code toys go. Considering a move to srchut, but haven't yet. Also where a lot of my professional pulic work goes.
-  url: https://github.com/amtunlimited
+- name: TikTok
+  desc: I've finally folded and made a TikTok. Almost completely music-related, although there may be a silly every now and again.
+  url: https://www.tiktok.com/@amtunlimited
+
+- name: Mastodon
+  desc: I'm gonna try this thing out, see how it works for me.
+  url: https://mastodon.social/@amtunlimited
