@@ -6,8 +6,7 @@ layout: resume
 
 ### Dropbox: June 2022 -
 
-Infrastructure Software Engineer, Developer Environments  
-TBD
+Infrastructure Software Engineer, Developer Environments
 
 ### Google: Nov 2018 - Mar 2022
 Software Engineer, Chromium Committer  
