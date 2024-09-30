@@ -14,8 +14,8 @@ permalink: /feed.xml
 </author>
 {% for post in site.posts %}
   <entry>
-    <title type="html">{{ post.title }}</title>
-    <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title }}"/>
+    <title type="html">{{ post.title | xml_escape }}</title>
+    <link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}"/>
     <id>{{ post.url | absolute_url }}</id>
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
@@ -23,7 +23,7 @@ permalink: /feed.xml
     <author>
       <name>{{ post.author | default: site.author }} </name>
     </author>
-    <summary>{{post.excerpt}}</summary>
+    <summary>{{post.excerpt | xml_escape}}</summary>
   </entry>
 {% endfor %}
 </feed>
