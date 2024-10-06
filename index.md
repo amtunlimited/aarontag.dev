@@ -10,7 +10,9 @@ My name is Aaron Tagliaboschi. Here's some stuff I'm up to:
 
 ## Writing
 
-I really enjoy writing. I'm still fairly new and trying to find my stride, but it at least makes me happy.
+I really enjoy writing. I'm still fairly new and trying to find my stride, but it at least makes me happy. 
+
+I commit to making all writing on this site [brain made](https://www.brainmade.org)
 
 ### Blog
 I write in a blog sometimes called [My Kind of Beauty](/blog/), where I putthoughts and musings about me and myself.

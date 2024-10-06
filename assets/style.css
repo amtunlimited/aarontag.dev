@@ -32,6 +32,11 @@ main, footer {
     margin: auto;
 }
 
+.brainmade-logo {
+    display: inline;
+    max-height: 2em;
+}
+
 .container {
     max-width: 1000px;
     margin: auto;

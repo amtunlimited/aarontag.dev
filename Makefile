@@ -5,5 +5,5 @@ all: publish
 build:
 	bundle exec jekyll build
 
-publish: _site
+publish: build
 	rsync _site/* /var/www/aarontag/ -r
