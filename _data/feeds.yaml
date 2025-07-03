@@ -1,10 +1,34 @@
-- name: RSS Feed
-  desc: The RSS feed for my blog
-  url: https://aarontag.dev/feed.xml
+- name: Shades of Blue and Green (Bandcamp)
+  desc: My new project! Acoustic folk-inspired music. Hopefully releasing regularly?
+  url: https://shadesofblueandgreen.bandcamp.com/
 
 - name: Bandcamp
   desc: My BandCamp, not necessarily in sync with my releases on Spotify et. al
   url: https://amtunlimited.bandcamp.com/
+
+- name: Spotify
+  desc: Where my published music is. I publish with DistroKid, so my music is where ever else they push to, but this is my main squeeze.
+  url: https://open.spotify.com/artist/2THGi5Y5LqTqN7ZYBoAHMn?si=tveP0GAUQDehFWs3Sfw6Cw
+
+- name: YouTube
+  desc: My YouTube channel. Also the official YouTube channel of me as an musician
+  url: https://www.youtube.com/channel/UCVlEkuqoQMnsHzjy-DJWOnA
+
+- name: Printables
+  desc: Repo for 3D print models/projects.
+  url: https://www.printables.com/@AMTunLimited_3123426
+
+- name: TikTok
+  desc: I've finally folded and made a TikTok. Almost completely music-related, although there may be a silly every now and again.
+  url: https://www.tiktok.com/@amtunlimited
+
+- name: RSS Feed
+  desc: The RSS feed for my blog
+  url: https://aarontag.dev/feed.xml
+
+- name: Instagram (music)
+  desc: An Instagram for my music. With TikTok disappearing soon, please go follow me there.
+  url: https://www.instagram.com/tagabunchofletters/
 
 - name: Linkedin
   desc: My Linkedin profile. I don't post at all, but it exists and is up to date
@@ -22,18 +46,6 @@
   desc: My Instagram for my art and photography
   url: https://www.instagram.com/amtunlimited/
 
-- name: Instagram (music)
-  desc: A separate Instagram for my music
-  url: https://www.instagram.com/tagabunchofletters/
-
-- name: YouTube
-  desc: My YouTube channel. Also the official YouTube channel of me as an musician
-  url: https://www.youtube.com/channel/UCVlEkuqoQMnsHzjy-DJWOnA
-
-- name: Spotify
-  desc: Where my published music is. I publish with DistroKid, so my music is where ever else they push to, but this is my main squeeze.
-  url: https://open.spotify.com/artist/2THGi5Y5LqTqN7ZYBoAHMn?si=tveP0GAUQDehFWs3Sfw6Cw
-
 - name: SoundCloud (main)
   desc: MY main Soundcloud.
   url: https://soundcloud.com/amtunlimited
@@ -42,9 +54,9 @@
   desc: Where I moved some improv after I ran out of space. Inactive archive (for now)
   url: https://soundcloud.com/amtimprov
 
-- name: TikTok
-  desc: I've finally folded and made a TikTok. Almost completely music-related, although there may be a silly every now and again.
-  url: https://www.tiktok.com/@amtunlimited
+- name: Twitch
+  desc: My Twitch channel, maybe I'll start going live there? Not sure...
+  url: https://www.twitch.tv/amtunlimited
 
 - name: Mastodon
   desc: I'm gonna try this thing out, see how it works for me.
